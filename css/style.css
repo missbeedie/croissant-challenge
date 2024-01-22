@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+  background-color: rgb(236, 210, 143);
+}
+
+img {
+  max-width: 800px;
+  border-radius: 10px;
+}
